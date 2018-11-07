@@ -22,6 +22,7 @@ git clone <url de nuestro repositorio>
 
 Este bloque CREA debajo del directorio en el que estamos uno con el nombre del repositorio remoto. Una vez creado lo habitual es dirigirse a él y empezar a trabajar sobre los archivos clonados. Para saber más en qué situación estamos del sistema es útil 
 ```{bash}
-
+git status
 ```
+Nos dice si hay commits (*compromisos*) pendientes. 
 
